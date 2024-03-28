@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Design and Analysis of Database systems, Data Mining, Full Stack Development 
 - 🤓 I'm currently working on: CompTIA Security+ Certification | NBA Trend Analyzer and Outcome Predictor (SaaS) 
 - 📫 How to reach me:
-      - Email: Alexwreid144@gmail.com
-      - LinkedIn: linkedin.com/in/alex reid144
+    * Email: Alexwreid144@gmail.com
+    * LinkedIn: [linkedin.com/in/alex-reid144](linkedin.com/in/alex-reid144)
 
